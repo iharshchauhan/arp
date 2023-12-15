@@ -8,13 +8,14 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Arpita Singh",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I do all the UI/UX ",
+    "highlight": "you could ever imagine!",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "🚀 With three dynamic years as a self-taught product design generalist, I've cultivated a user-centered approach while collaborating on innovative 0-1 products backed by Y Combinator, Jungle Ventures, Livespace, and other acclaimed entities. My ethos revolves around deeply understanding user behaviors, intricately weaving insights from diverse disciplines to create solutions that resonate profoundly.
+",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
